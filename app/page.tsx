@@ -4,7 +4,7 @@ export default function HomePage() {
       <div className="text-center">
         <h1 className="text-4xl font-bold">AI Invoice SaaS</h1>
 
-        <p className="mt-4 text-gray-600">Privacy First Invoice Processing</p>
+        <p className="mt-4">Supabase Connected</p>
       </div>
     </main>
   );
